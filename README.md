@@ -1,4 +1,4 @@
-#Discord Sellix Verification Bot
+<h1>Discord Sellix Verification Bot</h1>
 This is a Python-based Discord bot that helps automate the verification process for customers who made a successful purchase on Sellix. The bot assigns a designated "Member" role to the verified customers and notifies the server admins about each sale in a specific channel.
 
 Features
